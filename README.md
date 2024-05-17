@@ -1,4 +1,4 @@
-# dia-9
+# desafio-dia-9
 
 ## Project setup
 ```
